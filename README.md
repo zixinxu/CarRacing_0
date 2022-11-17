@@ -2,7 +2,7 @@
 ## PPO
 PPO: code 
 
-Log5s:
+Training/Log5s:
 
 PPO_1: logs for tensorboard
 
